@@ -6,6 +6,9 @@
   <a href="https://albar965.github.io/littlenavmap.html" target="_blank">
     <img src="https://img.shields.io/badge/little-navmap-%23454486.svg" alt="Little Navmap" />
   </a>
+  <a href="https://www.openflightmaps.org/" target="_blank">
+    <img src="https://img.shields.io/badge/open-flightmaps-%23222222.svg" alt="open flightmaps" />
+  </a>
   <a href="#license">
     <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="Project license" />
   </a>
