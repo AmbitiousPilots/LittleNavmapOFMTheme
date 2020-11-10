@@ -28,7 +28,7 @@
 <br>
 
 ## Instructions
-1. Download the latest [release](https://github.com/AmbitiousPilots/LittleNavmapOFMTheme/releases/latest) of LittleNavmapOFMTheme 
+1. Download the latest [release](https://github.com/AmbitiousPilots/LittleNavmapOFMTheme/releases/latest/download/openflightmaps.zip) of LittleNavmapOFMTheme 
 2. Extract the zip file into the `Little Navmap\data\maps\earth` directory 
 3. Start Little Navmap and click on View -> Theme -> Custom (openflightmaps) 
 4. Click on “Hide all airspaces” above the map to only show the OFM airspaces 
@@ -41,7 +41,7 @@ open flightmaps is an open source project that provides high quality VFR maps cu
 <br><br>
 
 ## Status
-For discussion and questions head on over to the [forum thread](https://forums.flightsimulator.com/).
+For discussion and questions head on over to the [forum thread](https://forums.flightsimulator.com/t/vfr-map-for-little-navmap/317879).
 <br><br>
 
 ## License
