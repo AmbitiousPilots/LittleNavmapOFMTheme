@@ -25,7 +25,7 @@
           <tileSize width="512" height="512" />
           <storageLayout levelZeroColumns="1" levelZeroRows="1" maximumTileLevel="19" mode="Custom" />
           <projection name="Mercator" />
-          <downloadUrl protocol="https" host="nwy-tiles-api.prod.newaydata.com" path="/tiles/{zoomLevel}/{x}/{y}.jpg" query="path=2201/base/latest" />
+          <downloadUrl protocol="https" host="nwy-tiles-api.prod.newaydata.com" path="/tiles/{zoomLevel}/{x}/{y}.jpg" query="path=2202/base/latest" />
           <downloadPolicy usage="Browse" maximumConnections="20" />
           <downloadPolicy usage="Bulk" maximumConnections="2" />
         </texture>
@@ -34,7 +34,7 @@
           <tileSize width="512" height="512" />
           <storageLayout levelZeroColumns="1" levelZeroRows="1" maximumTileLevel="19" mode="Custom" />
           <projection name="Mercator" />
-          <downloadUrl protocol="https" host="nwy-tiles-api.prod.newaydata.com" path="/tiles/{zoomLevel}/{x}/{y}.png" query="path=2201/aero/latest" />
+          <downloadUrl protocol="https" host="nwy-tiles-api.prod.newaydata.com" path="/tiles/{zoomLevel}/{x}/{y}.png" query="path=2202/aero/latest" />
           <blending name="OverpaintBlending" />
         </texture>
       </layer>
